@@ -7,15 +7,15 @@ Provide insight on performance trends from standardized testing across the city 
 ## Results
 How is the district summary affected?
 
-v1 Distric Summary:
+**v1 District Summary:**
 
 ![district_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/30196bcd846e22f4fb2d6d8c6c987ef072ec4449/Resources/distict_summary_df_v1.png))
 
-v2 Distric Summary:
+**v2 District Summary:**
 
 ![district_summary_df v2](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png)
 
-Note: In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN. 
+**Note:** In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN. 
 
 How is the school summary affected?
 
