@@ -9,7 +9,7 @@ Provide insight on performance trends from standardized testing across the city 
 
 **v1 District Summary:**
 
-![district_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/30196bcd846e22f4fb2d6d8c6c987ef072ec4449/Resources/distict_summary_df_v1.png))
+![district_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/30196bcd846e22f4fb2d6d8c6c987ef072ec4449/Resources/distict_summary_df_v1.png)
 
 **v2 District Summary:**
 
