@@ -25,6 +25,13 @@ Provide insight on performance trends from standardized testing across the city 
 
 ### How is the school summary affected?
 
+Thomas High School had changes in the following scores and pass percentages:
+ - Average Math Score decreased from 83.42 in v1 to 83.35 in v2
+ - Average Reading Score increased from 83.85 in v1 to 83.90 in v2
+ - % Passing Math decreased from 93.27% in v1 to 66.91% in v2
+ - % Passing Reading decreased from 97.31% in v1 to 69.66%
+ - % Overall Passing decreased from 90.95% in v1 to 65.08% in v2
+
 **v1 School Summary**
 
 ![per_school_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/a66409c43aa88b304ae5fc8475a60c4e37af2f42/Resources/per_school_summary_df_v1.png)
