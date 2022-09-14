@@ -32,11 +32,11 @@ Thomas High School had changes in the following scores and passing percentages:
  - % Passing Reading decreased from 97.31% in v1 to 69.66%
  - % Overall Passing decreased from 90.95% in v1 to 65.08% in v2
 
-**v1 School Summary**
+**v1 School Summary:**
 
 ![per_school_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/a66409c43aa88b304ae5fc8475a60c4e37af2f42/Resources/per_school_summary_df_v1.png)
 
-**v2 School Summary**
+**v2 School Summary:**
 
 ![per_school_summary_df_v2](https://github.com/krisnagoda/School_District_Analysis/blob/a66409c43aa88b304ae5fc8475a60c4e37af2f42/Resources/per_school_summary_df_v2.png)
 
