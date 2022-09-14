@@ -5,7 +5,15 @@
 Provide insight on performance trends from standardized testing across the city school system. Use these insights to help make data-backed decisions on funding strategy in upcoming discussion with school board and super intendant.
 
 ## Results
+
+**Note:** In each of the comparisons below v1 is our baseline with all data and v2 we have replaced all Thomas High School 9 grade data with NaN.
+
 ### How is the district summary affected?
+ - Average Math Score decreased from 79.0 in v1 to 78.9 in v2
+ - Average Reading Score was flat at 81.9 in v1 to v2
+ - % Passing Math decreased from 75% in v1 to 74.8% in v2
+ - % Passing Reading decreased from 86% in v1 to 85.7%
+ - % Overall Passing decreased from 65% in v1 to 64.9% in v2
 
 **v1 District Summary:**
 
@@ -15,17 +23,17 @@ Provide insight on performance trends from standardized testing across the city 
 
 ![district_summary_df v2](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png)
 
-**Note:** In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN.
-
- - Average Math Score decreased from 79.0 in v1 to 78.9 in v2
- - Average Reading Score was flat at 81.9 in v1 to v2
- - % Passing Math decreased from 75% in v1 to 74.8% in v2
- - % Passing Reading decreased from 86% in v1 to 85.7%
- - % Overall Passing decreased from 65% in v1 to 64.9% in v2
-
 ### How is the school summary affected?
 
-Text and screenshots here
+**v1 School Summary**
+
+![per_school_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/a66409c43aa88b304ae5fc8475a60c4e37af2f42/Resources/per_school_summary_df_v1.png)
+
+**v2 School Summary**
+
+![per_school_summary_df_v2](https://github.com/krisnagoda/School_District_Analysis/blob/a66409c43aa88b304ae5fc8475a60c4e37af2f42/Resources/per_school_summary_df_v2.png)
+
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
