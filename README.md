@@ -48,8 +48,14 @@ The changes to the Thomas High School 9 grade data caused a significant decline 
 
   **Math and reading scores by grade**
   
-  Text and screenshots here
-
+  **v1 Math & Reading Scores by Grade**
+  
+  ![Resources/math_reading_scores_by_grade_v1.png](https://github.com/krisnagoda/School_District_Analysis/blob/175d42c6b9713545bf6243734b6343f234a81af1/Resources/math_reading_scores_by_grade_v1.png)
+  
+  **v2 Math & Reading Scores by Grade**
+  
+  ![Resources/math_reading_scores_by_grade_v1.png](https://github.com/krisnagoda/School_District_Analysis/blob/175d42c6b9713545bf6243734b6343f234a81af1/Resources/math_reading_scores_by_grade_v2.png)
+  
   **Scores by school spending**
   
   Text and screenshots here
