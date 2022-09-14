@@ -35,11 +35,11 @@ Text and screenshots here
   
   Text and screenshots here
   
-  ** Scores by school size **
+  **Scores by school size**
   
   Text and screenshots here
   
-  ** Scores by school type **
+  **Scores by school type**
   
   Text and screenshots here
 
