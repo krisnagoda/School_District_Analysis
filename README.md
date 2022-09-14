@@ -48,31 +48,31 @@ The changes to the Thomas High School 9 grade data caused a significant decline 
 
   **Math and reading scores by grade**
   
-  **v1 Math & Reading Scores by Grade**
+  **v1 Math & Reading Scores by Grade:**
   
   ![Resources/math_reading_scores_by_grade_v1.png](https://github.com/krisnagoda/School_District_Analysis/blob/175d42c6b9713545bf6243734b6343f234a81af1/Resources/math_reading_scores_by_grade_v1.png)
   
-  **v2 Math & Reading Scores by Grade**
+  **v2 Math & Reading Scores by Grade:**
   
   ![Resources/math_reading_scores_by_grade_v1.png](https://github.com/krisnagoda/School_District_Analysis/blob/175d42c6b9713545bf6243734b6343f234a81af1/Resources/math_reading_scores_by_grade_v2.png)
   
   **Scores by school spending**
   
-  **Spending Summary v1**
+  **Spending Summary v1:**
   
   ![spending_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/671a551373ec25b165b942fb99a9c359d517147a/Resources/spending_summary_df_v1.png)
   
-  **Spending Summary v2**
+  **Spending Summary v2:**
   
   ![spending_summary_df_v2](https://github.com/krisnagoda/School_District_Analysis/blob/671a551373ec25b165b942fb99a9c359d517147a/Resources/spending_summary_df_v2.png)
     
   **Scores by school size**
   
-  **Size Summary v1**
+  **Size Summary v1:**
   
   ![size_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/3a8ad93174826cde7db41ff5f218b64c8bb9f286/Resources/size_summary_df_v1.png)
   
-  **Size Summary v2**
+  **Size Summary v2:**
   
   ![size_summary_df_v2](https://github.com/krisnagoda/School_District_Analysis/blob/3a8ad93174826cde7db41ff5f218b64c8bb9f286/Resources/size_summary_df_v2.png)
   
