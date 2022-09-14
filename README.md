@@ -5,7 +5,7 @@
 Provide insight on performance trends from standardized testing across the city school system. Use these insights to help make data-backed decisions on funding strategy in upcoming discussion with school board and super intendant.
 
 ## Results
-How is the district summary affected?
+### How is the district summary affected?
 
 **v1 District Summary:**
 
@@ -17,19 +17,31 @@ How is the district summary affected?
 
 **Note:** In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN. 
 
-How is the school summary affected?
+### How is the school summary affected?
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Text and screenshots here
 
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-  Math and reading scores by grade
+Text and screenshots here
 
-  Scores by school spending
+### How does replacing the ninth-grade scores affect the following:
+
+  **Math and reading scores by grade**
   
-  Scores by school size
+  Text and screenshots here
+
+  **Scores by school spending**
   
-  Scores by school type
+  Text and screenshots here
+  
+  ** Scores by school size
+  
+  Text and screenshots here
+  
+  ** Scores by school type
+  
+  Text and screenshots here
 
 ## Summary
 
