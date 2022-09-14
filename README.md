@@ -88,4 +88,4 @@ The changes to the Thomas High School 9 grade data caused a significant decline 
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+As noted above, the changes to the Thomas High School 9 grade data caused a significant decline in their % Passing Math, % Passing Reading, and % Overall Passing scores. Placing Thomas High School in the lower quartile with other schools with much larger student populations.
