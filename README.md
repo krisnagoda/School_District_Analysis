@@ -58,8 +58,14 @@ The changes to the Thomas High School 9 grade data caused a significant decline 
   
   **Scores by school spending**
   
-  Text and screenshots here
+  **Spending Summary v1**
   
+  ![spending_summary_df_v1](https://github.com/krisnagoda/School_District_Analysis/blob/671a551373ec25b165b942fb99a9c359d517147a/Resources/spending_summary_df_v1.png)
+  
+  **Spending Summary v2**
+  
+  ![spending_summary_df_v2](https://github.com/krisnagoda/School_District_Analysis/blob/671a551373ec25b165b942fb99a9c359d517147a/Resources/spending_summary_df_v2.png)
+    
   **Scores by school size**
   
   Text and screenshots here
