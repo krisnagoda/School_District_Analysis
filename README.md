@@ -7,6 +7,10 @@ Provide insight on performance trends from standardized testing across the city 
 ## Results
 How is the district summary affected?
 
+[district_summary_df(v1)](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v1.png)
+
+[district_summary_df(v2)](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png)
+
 How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
