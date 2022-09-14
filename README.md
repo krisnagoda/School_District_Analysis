@@ -7,7 +7,9 @@ Provide insight on performance trends from standardized testing across the city 
 ## Results
 How is the district summary affected?
 
-https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png
+![district_summary_df v2](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png)
+
+
 
 How is the school summary affected?
 
