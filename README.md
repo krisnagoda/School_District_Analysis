@@ -15,7 +15,13 @@ Provide insight on performance trends from standardized testing across the city 
 
 ![district_summary_df v2](https://github.com/krisnagoda/School_District_Analysis/blob/698fc18429a64debdb90dba5e9ed939710aa56d9/Resources/distict_summary_df_v2%20(THS%209th%20NaN).png)
 
-**Note:** In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN. 
+**Note:** In the v2 district_summary_df we have replaced all Thomas High School 9 grade data with NaN.
+
+ - Average Math Score decreased from 79.0% in v1 to 78.9% in v2
+ - Average Reading Score was flat at 81.9% in v1 to v2
+ - % Passing Math decreased from 75% in v1 to 74.8% in v2
+ - % Passing Reading decreased from 86% in v1 to 85.7%
+ - % Overall Passing decreased from 65% in v1 to 64.9% in v2
 
 ### How is the school summary affected?
 
